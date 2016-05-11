@@ -81,10 +81,6 @@ reuse nested class ColumnCollection & Column in TreeListView, should we pull out
 
 TODO:
 
-• Make the column resizing controls always resize the column on the left,
-leaving all other column widths unchanged. This is how MS Excel works, for example.
-Currently, only the first (left-most) resizing control behaves this way.
-
 • Add Bool, Enum and Color data editors( configurations of a car can be represented as enum)
 
 • If users specify column names, but don't fill info.Properties, 

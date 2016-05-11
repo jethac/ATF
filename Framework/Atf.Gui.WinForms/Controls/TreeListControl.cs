@@ -398,8 +398,6 @@ namespace Sce.Atf.Controls
                             adjust = minWidth;
                         }
                         Columns[m_currentColumn - 1].ActualWidth = adjust;
-                        Columns[m_currentColumn].ActualWidth = newWitdh;
-
                     }
                 }
 
